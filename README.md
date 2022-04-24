@@ -1,4 +1,4 @@
-# bc. Marek Lukáš
+# Bc. Marek Lukáš
 
 <div> 
 <img src="https://avatars.githubusercontent.com/u/3985946" width="30%" height="30%"/>
@@ -36,9 +36,9 @@ Web technologies with practical full-stack knowledge. I have experience with bui
 
 ## Education
 
-`2016 - 2018`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CTU Faculty of Information Technology](https://fit.cvut.cz/en)
+`2016 - 2018`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CTU Faculty of Information Technology](https://fit.cvut.cz/en)
 
-`2018 - 2021`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CULS Faculty of Economics and Management](https://www.pef.czu.cz/en)
+`2018 - 2021`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CULS Faculty of Economics and Management](https://www.pef.czu.cz/en)
 
 `2021 - present`:&nbsp;&nbsp;[VSB-TUO Faculty of Electrical Engineering and Computer Science](https://www.fei.vsb.cz/en)
 
