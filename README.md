@@ -18,7 +18,7 @@ Studying Computer Science and Technology at VSB-TUO Faculty of Electrical Engine
 
 Web technologies with practical full-stack knowledge. I have experience with building hybrid desktop and mobile applications.
 
-### Main technologies
+### Technologies of choice
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
