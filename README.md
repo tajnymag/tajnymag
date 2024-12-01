@@ -4,7 +4,7 @@
 <img src="https://avatars.githubusercontent.com/u/3985946" width="30%" height="30%"/>
 </div>
 
-Full on nerd with a passion for open software and 
+Full on nerd with a passion for open software.
 
 <div>
 <a href="mailto:tajnymag@gmail.com">tajnymag@gmail.com</a> | <a href="https://github.com/tajnymag">github.com/tajnymag</a>
