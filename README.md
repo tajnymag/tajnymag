@@ -1,10 +1,10 @@
-# Bc. Marek Lukáš
+# Ing. Marek Lukáš
 
 <div> 
 <img src="https://avatars.githubusercontent.com/u/3985946" width="30%" height="30%"/>
 </div>
 
-Grad student at VSB Technical University of Ostrava with a passion for the open web.
+Full on nerd with a passion for open software and 
 
 <div>
 <a href="mailto:tajnymag@gmail.com">tajnymag@gmail.com</a> | <a href="https://github.com/tajnymag">github.com/tajnymag</a>
@@ -12,11 +12,11 @@ Grad student at VSB Technical University of Ostrava with a passion for the open 
 
 ## Currently
 
-Studying Computer Science and Technology at VSB-TUO Faculty of Electrical Engineering and Computer Science.
+Full-stack developer at [Sator Controls](https://www.sator.cz)
 
 ### Specialized in
 
-Web technologies with practical full-stack knowledge. I have experience with building hybrid desktop and mobile applications.
+Web technologies with practical full-stack knowledge. From hybrid desktop/mobile apps to embedded development and integration.
 
 ### Technologies of choice
 
@@ -40,7 +40,7 @@ Web technologies with practical full-stack knowledge. I have experience with bui
 
 `2018 - 2021`:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CULS Faculty of Economics and Management](https://www.pef.czu.cz/en)
 
-`2021 - present`:&nbsp;&nbsp;[VSB-TUO Faculty of Electrical Engineering and Computer Science](https://www.fei.vsb.cz/en)
+`2021 - 2024`:&nbsp;&nbsp;[VSB-TUO Faculty of Electrical Engineering and Computer Science](https://www.fei.vsb.cz/en)
 
 ## Career
 
@@ -48,9 +48,11 @@ Web technologies with practical full-stack knowledge. I have experience with bui
 
 ## My finished projects
 
+* [vsb-eink](https://github.com/vsb-eink)
+  * e-paper digital signage solution for VSB-TUO (actually deployed and being used)
 * [spayd-js](https://github.com/tajnymag/spayd-js)
   * typescript library for generating QR Payment payloads 
-* [bokari](https://github.com/tajnymag/bokari)
-  * very simple architecture project management system
 * [geus](https://github.com/tajnymag/geus)
   * basic Space Invaders clone written using C++ and Ncurses
+* [bokari](https://github.com/tajnymag/bokari)
+  * very simple architecture project management system
